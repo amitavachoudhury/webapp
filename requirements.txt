@@ -1,4 +1,4 @@
 flask
 pandas
 gunicorn
-logistic regression
+LogisticRegression
